@@ -84,6 +84,10 @@ header nav a{
     justify-content: left;
   }
 
+  .info {
+    opacity: 0;
+  }
+
   #hero .info h1 {
     font-size: 96px;
     margin-bottom: 1rem;
@@ -220,8 +224,6 @@ footer li {
     background-color: #F0F0F0;
     min-height: 760px;
     width: 100%;
-    margin: 0 -500%;
-    padding: 0 500%
 }
 
 .container {
